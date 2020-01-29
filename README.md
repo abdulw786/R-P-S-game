@@ -3,6 +3,7 @@
 
 
 ## rock paper scissors game
+URL (https://github.com/abdulw786/R-P-S-game.git)
 
 we all familier with rock, paler, scissor game. 
 please download the code in order to play the game,
